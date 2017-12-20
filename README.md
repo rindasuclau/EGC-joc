@@ -1,0 +1,2 @@
+# EGC-joc
+Proiect EGC
